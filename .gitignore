@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Cog
+.cog/
+cog_outputs/
+
+# Models
+*.pth
+*.pt
+*.safetensors
+*.ckpt
+models/
+checkpoints/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.webp
+output/
+temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Replicate
+.replicate/
